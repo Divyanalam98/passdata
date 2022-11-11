@@ -12,13 +12,13 @@ and has no complex joins. MongoDB supports dynamic queries on documents using a 
 MongoDB stores data records as BSON documents. BSON is a binary representation of JSON documents, though it contains more data types than JSON.
 MongoDB documents are composed of field-and-value pairs.
 
-![Image]()
+![Image](https://github.com/Divyanalam98/passdata/blob/main/images/mongodb_logo.png)
 
 ## What's Attribute based Access Control?
 
 ABAC is defined as an access control method where access is mediated based on a set of attributes and their associated values, where each attribute represents a particular characteristic of a subject, object, or the environment in which the access request is being made. Based on the combination of these attributes that is the subject, object and the environment the access is granted or denied. ABAC provides support for access control decision making without a prior knowledge of the object by the subject or knowledge of the subject by the object owner. ABAC is implemented to reduce risks due to unauthorized access, as it can control security and access on a more fine-grained basis.
 
-![Image]()
+![Image](https://github.com/Divyanalam98/passdata/blob/main/images/abac.png)
 
 For instance, in the above figure, if the following predefined policy is satisfied, only then the access is granted:
 
@@ -34,7 +34,7 @@ The code consists of two .py files and a few HTML files. Then we also have a pic
 
 ## Flowchart for MongoDB
 
-![Image]()
+![Image](https://github.com/Divyanalam98/passdata/blob/main/images/flowchart_mongodb.png)
 
 ## Output Generation
 
@@ -42,11 +42,11 @@ The data to be accessed is stored and can be viewed in MongoDB Compass. The data
 
 ## Output Images
 
-![Image]()
+![Image](https://github.com/Divyanalam98/passdata/blob/main/images/access%20denied.png)
 
 *Figure: when attributes not satisfying policy are keyed in.*
 
-![Image]()
+![Image](https://github.com/Divyanalam98/passdata/blob/main/images/access_granted.png)
 
 *Figure: when attributes satisfying policy are keyed in.*
 
